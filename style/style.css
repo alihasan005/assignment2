@@ -10,12 +10,26 @@
     max-width: 1140px;
     margin: 30px auto;
 }
+                           /* nav section */
 .nav{
     display: flex;
    justify-content: space-between;
 }
 .nav ul{
     display: flex;
+}
+.home{
+    color: #252432;
+    width: 46px;
+    height: 24px;
+}
+.shop-aboutus{
+    color: #8987A1;
+}
+.cart{
+    color: #000000;
+    width: 79px;
+    height: 24px;
 }
 .nav ul li{
     list-style: none;
@@ -24,8 +38,36 @@
 .nav ul li a{
     text-decoration: none;
 }
+                          /* banner section */
+.banner{
+    display: flex;
+    margin-top:120px;
+}
+.fresh{
+    color: #E95A08;
+    width: 517px;
+    height: 89px;
+}
+.always{
+    color: #000000;
+    width: 517px;
+    height: 89px;
+}
+.banner-discriptipn{
+    color:#8987A1 ;
+}
+.banner-text{
+    margin-top: 150px;
+}
 
-
+@media screen and (max-width: 576px){
+  .close{
+    display: none;
+  }
+  .banner{
+    flex-direction: column-reverse;
+  }
+}
 
 
 
