@@ -185,7 +185,7 @@ display: block;
 .div-4{
    justify-items:center;  
 }
- 
+
 @media screen and (max-width: 576px){
   .close{
     display: none;
@@ -232,7 +232,6 @@ display: block;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
-
 
 }
 
