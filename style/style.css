@@ -132,11 +132,11 @@
     
 }
 .zabo{
-    background-image: url(./assets/deal-zabo.png);
+    background-image: url(/assets/deal-zabo.png);
     width: 350px;
     padding: 30px;
     border-radius: 20px;
-        align-items: center;
+    align-items: center;
     justify-items: center;
     justify-content: center;
 }
