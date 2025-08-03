@@ -112,7 +112,7 @@
     
 }
 .div-bloom{
-    background-image:url(/assets/deal-bloom.png);
+    background-image:url(assets/deal-bloom.png);
     width: 400px;
     height: 200px;
     border-radius: 20px;
@@ -122,7 +122,7 @@
     
 }
 .div-ana{
-    background-image: url(/assets/deal-ana.png);
+    background-image: url(assets/deal-ana.png);
         width: 400px;
         height: 200px;
     border-radius: 20px;
@@ -132,7 +132,7 @@
     
 }
 .zabo{
-    background-image: url(/assets/deal-zabo.png);
+    background-image: url(assets/deal-zabo.png);
     width: 350px;
     padding: 30px;
     border-radius: 20px;
@@ -144,7 +144,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-image: url(./assets/news-letter-bg.png);
+    background-image: url(assets/news-letter-bg.png);
     width: 100%;
     height: 533px;
 }
